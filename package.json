@@ -4,7 +4,7 @@
   "description": "Scroll horizontally with the mousewheel!",
   "author": "hew",
   "license": "MIT",
-  "repository": "https://github.com/oplab-team/react-scroll-horizontal",
+  "repository": "git://github.com/oplab-team/react-scroll-horizontal.git",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
@@ -54,6 +54,9 @@
     "rollup-plugin-postcss": "^1.6.2",
     "rollup-plugin-url": "^1.4.0",
     "webpack-dev-server": "^3.1.14"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   },
   "files": [
     "dist"
