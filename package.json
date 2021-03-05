@@ -4,7 +4,7 @@
   "description": "Scroll horizontally with the mousewheel!",
   "author": "hew",
   "license": "MIT",
-  "repository": "hew/react-scroll-horizontal",
+  "repository": "https://github.com/oplab-team/react-scroll-horizontal",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
